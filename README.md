@@ -1,5 +1,5 @@
 # Word Guessing Game
-A simple word guessing game I built as one of Sigma School's Fundamental course assignments.
+A simple word guessing game I built using HTML,CSS and JavaScript
 
 Check out and test my game here https://chuajingyong.github.io/word-guessing-game/
 
