@@ -2,4 +2,5 @@
 A simple word guessing game I built as one of Sigma School's Fundamental course assigenments.
 
 Check out and test my game here https://chuajingyong.github.io/word-guessing-game/
-Tips: The words are from a collection of verbs 😉
+
+**Tips:** The words are from a collection of verbs 😉
